@@ -1,0 +1,9 @@
+{
+	"name": "adf-ik-train",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aae81926-3a9a-4eb7-818f-b801e73edd7a",
+		"tenantId": "bdb010a6-1d05-498f-81b4-ba7835643db5"
+	}
+}
