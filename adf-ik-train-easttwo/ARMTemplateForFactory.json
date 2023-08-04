@@ -1397,7 +1397,7 @@
 						"SelectingTheColumns sort(asc(reported_date, false)) ~> SortingByDate",
 						"SortingByDate sink(allowSchemaDrift: true,",
 						"     validateSchema: false,",
-						"     partitionFileNames:['daily'],",
+						"     partitionFileNames:['daily.csv'],",
 						"     umask: 0022,",
 						"     preCommands: [],",
 						"     postCommands: [],",
